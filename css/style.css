@@ -165,7 +165,7 @@ footer{
 }
 /*  client section   */
 #client-section{
-    height: 340px;
+    position: relative;
 }
 #clients{
     display: flex;
